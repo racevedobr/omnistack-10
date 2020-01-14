@@ -1,3 +1,3 @@
 # omnistack-10
 
-Criado backend conforme aula da semana OmniStack 10
+Criado backend conforme aula 2 da semana OmniStack 10
