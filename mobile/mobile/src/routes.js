@@ -11,7 +11,7 @@ const Routes = createAppContainer(
         Main: {
             screen: Main,
             navigationOptions: {
-            title: 'DevRadar',     
+            title: 'DevRadar',
             },
         },
         Profile: {
